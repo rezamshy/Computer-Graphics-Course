@@ -2,7 +2,7 @@
 
 Assignments of the Introduction to Computer Graphics that I had at UofA 2021.
 
-The course assignments were implemented in JavaScript, and WebGL.
+The course assignments were implemented in HTML, JavaScript, and WebGL.
 
 As for the fifth assignment, the code base was given to us and we had to extend it to create below objects using Ray Tracing.
 
